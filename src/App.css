@@ -1,5 +1,5 @@
 * {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 /* HEIGHT / WIDTH UTILS */
 .min-100-vh {
@@ -379,4 +379,40 @@ header {
 	background-color: rgb(254, 242, 0);
 	margin-left: 10%;
 	margin-right: 10%;
+}
+
+/* About me Section*/
+.gray{
+	background: rgb(236, 236, 236);
+}
+
+.About {
+	padding-top: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.portrait img{
+	width: 80%;
+	margin-top: 10%;
+	box-shadow: -20px -20px 3px 2px rgb(23, 23, 23);
+}
+.who-am-i {
+	text-transform: lowercase;
+	margin-left: 20px;
+	margin-bottom: 0;
+	font-size: .7;
+}
+.hello {
+	margin-top: 0;
+	font-size: 1.5rem;
+	text-decoration: 10px rgb(254, 242, 0) underline;
+}
+.about-text {
+font-size: .7rem;
+}
+.about-p {
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-weight: bolder;
+	letter-spacing: .1ch;
+
 }
