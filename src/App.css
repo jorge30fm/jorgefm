@@ -416,3 +416,7 @@ font-size: .7rem;
 	letter-spacing: .1ch;
 
 }
+
+@keyframes blinker {
+	50% {opacity: 0.2;}
+}
